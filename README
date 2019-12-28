@@ -1,0 +1,21 @@
+# Be one hub
+
+## Introduction
+
+This project is an open source project for creating an app that wiil be able to buy cryptos in different exchanges. This is the front end project, it' will be connected to
+this 3 other projects.
+
+  - bonehub-api
+  - bonehub-desktop
+  - bonehub-react-native
+
+Everything in the proyect will be thought to use de AWS cloud services.
+
+## Contributions.
+
+  - You can participate in Discord conversations -->
+  - You can send your pr's
+  - you can send your donation
+
+I will create a badge for any contributor in all the projects and give you access in private channels and more things in the future. The idea is to give ownership and
+allow mantainers to be an important part of the future decitions of this project.
